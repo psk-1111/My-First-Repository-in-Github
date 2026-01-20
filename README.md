@@ -3,7 +3,8 @@ joined in sauthrika
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Page Title</title>
+
+  
 </head>
   <body>
     <h1>Hello Github</h1>
